@@ -12,6 +12,8 @@ The DX MCP Server is a Python-based tool that empowers AI applications, such as 
 
 Learn more about the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction).
 
+**Note**: DX intends for [the CLI](https://docs.getdx.com/cli/) to become the primary interface for AI agents and is investing in it as the long-term direction beyond the MCP server. Both interfaces remain supported.
+
 ## Demo
 
 https://github.com/user-attachments/assets/c6ce12a5-4562-4b44-b235-2d04871c3142
